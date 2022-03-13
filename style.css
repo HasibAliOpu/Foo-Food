@@ -19,3 +19,12 @@
   height: 100%;
   width: 100%;
 }
+.input {
+  border: none;
+}
+#submit {
+  background-color: #ff7e00;
+  width: 70%;
+  color: bisque;
+  font-weight: 600;
+}
