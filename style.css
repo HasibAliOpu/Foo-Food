@@ -6,3 +6,12 @@
 .briyani-img {
   width: 13%;
 }
+.quantity {
+  margin-top: 100px;
+}
+.num {
+  margin-top: 30px;
+  color: #ff7e00;
+  background-color: antiquewhite;
+  border-radius: 5px;
+}
